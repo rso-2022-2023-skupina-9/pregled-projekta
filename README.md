@@ -17,7 +17,7 @@ Primerjalnik cen izdelkov omogoča uporabnikom primerjanje cen različnih izdelk
 
 ### Shema arhitekture in shemo interakcij med mikrostoritvami
 
-![Entiteno relacijski diagram](../diagrami/Konceptualni%20diagram%20-%20RSO.drawio.png "Entitetno relacijski diagram")
+![Entiteno relacijski diagram](./diagrami/Konceptualni%20diagram%20-%20RSO.drawio.png "Entitetno relacijski diagram")
 
 ### Seznam interakcij
 
@@ -32,4 +32,4 @@ Primerjalnik cen izdelkov omogoča uporabnikom primerjanje cen različnih izdelk
 
 ### Primeri uporabe
 
-![Diagram primerov uporabe](../diagrami/Primeri%20uporabe%20-%20RSO.drawio.png "Diagram primerov uporabe")
+![Diagram primerov uporabe](./diagrami/Primeri%20uporabe%20-%20RSO.drawio.png "Diagram primerov uporabe")
